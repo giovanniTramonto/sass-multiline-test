@@ -1,0 +1,33 @@
+{
+  "name": "sass-multiline",
+  "version": "1.0.0",
+  "description": "Test Sass Multiline",
+  "main": "index.html",
+  "scripts": {
+    "dev": "webpack --config webpack.config.js"
+  },
+  "author": "yo-hann@gmx.de",
+  "license": "ISC",
+  "devDependencies": {
+    "css-loader": "^1.0.1",
+    "html-webpack-plugin": "^3.2.0",
+    "node-sass": "^4.10.0",
+    "sass-loader": "^7.1.0",
+    "style-loader": "^0.23.1",
+    "vue": "^2.5.17",
+    "vue-loader": "^15.4.2",
+    "vue-style-loader": "^4.1.2",
+    "vue-template-compiler": "^2.5.17",
+    "webpack": "^4.25.0",
+    "webpack-cli": "^3.1.2",
+    "webpack-multiline-sass": "0.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "engines": {
+    "node": ">= 9.0.0",
+    "npm": ">= 5.6.0"
+  }
+}
